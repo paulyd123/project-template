@@ -437,3 +437,37 @@ Create (`nMichael Healy-Rae`:Candidates {name:"Michael Healy-Rae", party:" Indep
 (`nHenry GayNor`:Candidates {name:"Henry GayNor", party:"Independent", gender:"Male", constituency:"Kerry", age:52, elected:"No"}),
 (`nBrian Finucane`:Candidates {name:"Brian Finucane", party:"AAA-PBP", gender:"Male", constituency:"Kerry", age:41, elected:"No"})
 
+
+
+//Nodes representing candidates in Kildare North.
+
+Create (`nCatherine Murphy`:Candidates {name:"Catherine Murphy", party:"Social Democrats", gender:"Female", constituency:"Kildare North", age:62, elected:"Yes"}),
+(`nJames Lawless`:Candidates {name:"James Lawless", party:"Fianna Fail", gender:"Male", constituency:"Kildare North", age:39, elected:"Yes"}),
+(`nBernard Durkan`:Candidates {name:"Bernard Durkan", party:"Fine Gael", gender:"Male", constituency:"Kildare North", age:70, elected:"Yes"}),
+(`nFrank O'Rourke`:Candidates {name:"Frank O'Rourke", party:"Fianna Fail", gender:"Male", constituency:"Kildare North", age:"N/A", elected:"Yes"}),
+(`nAnthony Lawlor`:Candidates {name:"Anthony Lawlor", party:"Fine Gael", gender:"Male", constituency:"Kildare North", age:56, elected:"No"}),
+(`nEmmet Stagg`:Candidates {name:"Emmet Stagg", party:"Labour", gender:"Male", constituency:"Kildare North", age:71, elected:"No"}),
+(`nRéada Cronin`:Candidates {name:"Réada Cronin", party:"Sinn Fein", gender:"Female", constituency:"Kildare North", age:51, elected:"No"}),
+(`nMaebh Ní Fhallúin`:Candidates {name:"Maebh Ní Fhallúin", party:"Green Party", gender:"Female", constituency:"Kildare North", age:35, elected:"No"}),
+(`nShane Fitzgerald`:Candidates {name:"Shane Fitzgerald", party:"Renua Ireland", gender:"Male", constituency:"Kildare North", age:"N/A, elected:"No" }),
+(`nBrendan Young`:Candidates {name:"Brendan Young", party:"Independent", gender:"Male", constituency:"Kildare North", age:"N/A", elected:"No"}),
+(`nAshling Merriman`:Candidates {name:"Ashling Merriman", party:"AAA-PBP", gender:"Female", constituency:"Kildare North", age:46, elected:"No"}),
+(`nMichael Beirne`:Candidates {name:"Michael Beirne", party:"Independent", gender:"Male", constituency:"Kildare North", age:"N/A", elected:"No"}),
+(`nElizabeth O'Sullivan`:Candidates {name:"Elizabeth O'Sullivan", party:"Independent", gender:"Female", constituency:"Kildare North", age:"N/A", elected:"No"}),
+(`nGerard Dunne`:Candidates {name:"Gerard Dunne", party:"Independent", gender:"Male", constituency:"Kildare North", age:"N/A", elected:"No"})
+
+
+
+
+//Nodes representing candidates in Kildare South.
+
+Create (`nMartin Heydon`:Candidates {name:"Martin Heydon", party:"Fine Gael", gender:"Male", constituency:"Kildare South", age:37, elected:"Yes"}),
+(`nFiona O'Loughlin`:Candidates {name:"Fiona O'Loughlin", party:"Fianna Fail", gender:"Female", constituency:"Kildare South", age:"N/A", elected:"Yes"}),
+(`nMark Wall`:Candidates {name:"Mark Wall", party:"Labour", gender:"Male", constituency:"Kildare South", age:45, elected:"No"}),
+(`nSeán O Fearghaíl`:Candidates {name:"Seán O Fearghaíl", party:"Fianna Fail", gender:"Male", constituency:"Kildare South", age:55, elected:"Yes"}),
+(`nPatricia Ryan`:Candidates {name:"Patricia Ryan", party:"Sinn Fein", gender:"Female", constituency:"Kildare South", age:52, elected:"No"}),
+(`nFiona McLoughlin Healy`:Candidates {name:"Fiona McLoughlin Healy", party:"Fine Gael", gender:"Female", constituency:"Kildare South", age:"N/A", elected:"No"}),
+(`nSuzanne McEneaney`:Candidates {name:"Suzanne McEneaney", party:"Green Party", gender:"Female", constituency:"Kildare South", age:"N/A", elected:"No"}),
+(`nDeclan Crowe`:Candidates {name:"Declan Crowe", party:"Independent", gender:"Male", constituency:"Kildare South", age:"N/A", elected:"No"}),
+(`nMary Kennedy`:Candidates {name:"Mary Kennedy", party:"Renua Ireland", gender:"Female", constituency:"Kildare South", age:"N/A", elected:"No"})
+
