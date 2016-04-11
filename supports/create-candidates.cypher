@@ -471,3 +471,33 @@ Create (`nMartin Heydon`:Candidates {name:"Martin Heydon", party:"Fine Gael", ge
 (`nDeclan Crowe`:Candidates {name:"Declan Crowe", party:"Independent", gender:"Male", constituency:"Kildare South", age:"N/A", elected:"No"}),
 (`nMary Kennedy`:Candidates {name:"Mary Kennedy", party:"Renua Ireland", gender:"Female", constituency:"Kildare South", age:"N/A", elected:"No"})
 
+
+
+
+//Nodes representing candidates in Laois.
+
+Create (`nSeán Fleming`:Candidates {name:"Seán Fleming", party:"Fianna Fail", gender:"Male", constituency:"Laois", age:57, elected:"Yes"}),
+(`nBrian Stanley`:Candidates {name:"Brian Stanley", party:"Sinn Fein", gender:"Male", constituency:"Laois", age:54, elected:"Yes"}),
+(`nThomasina Connell`:Candidates {name:"Thomasina Connell", party:"Fine Gael", gender:"Female", constituency:"Laois", age:33, elected:"No"}),
+(`nCharlie Flanagan`:Candidates {name:"Charlie Flanagan", party:"Fine Gael", gender:"Male", constituency:"Laois", age:59, elected:"Yes"}),
+(`nJohn Whelan`:Candidates {name:"John Whelan", party:"Labour", gender:"Male", constituency:"Laois", age:54, elected:"No"}),
+(`nSinead Moore`:Candidates {name:"Sinead Moore", party:"Green Party", gender:"Female", constituency:"Laois", age:40, elected:"No"})
+
+
+
+
+//Nodes representing candidates in Limerick City.
+
+
+Create (`nWillie O'Dea`:Candidates {name:"Willie O'Dea", party:"Fianna Fail", gender:"Male", constituency:"Limerick City", age:62, elected:"Yes"}),
+(`nMaurice Quinlivan`:Candidates {name:"Maurice Quinlivan", party:"Sinn Fein", gender:"Male", constituency:"Limerick City", age:48, elected:"Yes"}),
+(`nJan O'Sullivan`:Candidates {name:"Jan O'Sullivan", party:"Labour", gender:"Female", constituency:"Limerick City", age:64, elected:"Yes"}),
+(`nMichael Noonan`:Candidates {name:"Michael Noonan", party:"Fine Gael", gender:"Male", constituency:"Limerick City", age:72, elected:"Yes"}),
+(`nKieran O'Donnell`:Candidates {name:"Kieran O'Donnell", party:"Fine Gael", gender:"Male", constituency:"Limerick City", age:52, elected:"No"}),
+(`nCian Prendiville`:Candidates {name:"Cian Prendiville", party:"AAA-PBP", gender:"Male", constituency:"Limerick City", age:26, elected:"No"}),
+(`nJames Gaffney`:Candidates {name:"James Gaffney", party:"Green Party", gender:"Male", constituency:"Limerick City", age:32, elected:"No"}),
+(`nSarah Jane Hennelly`:Candidates {name:"Sarah Jane Hennelly", party:"Social Democracy", gender:"Female", constituency:"Limerick City", age:27, elected:"No"}),
+(`nNora Bennis`:Candidates {name:"Nora Bennis", party:"Catholic Democrats", gender:"Female", constituency:"Limerick City", age:"N/A", elected:"No"}),
+(`nDesmond Hayes`:Candidates {name:"Desmond Hayes", party:"Independent", gender:"Male", constituency:"Limerick City", age:47, elected:"No"}),
+(`nDenis Riordan`:Candidates {name:"Denis Riordan", party:"Independent", gender:"Male", constituency:"Limerick City", age:66, elected:"No"})
+
