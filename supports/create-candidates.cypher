@@ -269,3 +269,31 @@ Create (`nEoin O Broin`:Candidates {name:"Eoin O Broin", party:"Sinn Fein", gend
 
 
 
+//Nodes representing candidates in Dublin North-West.
+
+Create (`nDessie Ellis`:Candidates {name:"Dessie Ellis", party:"Sinn Fein", gender:"Male", constituency:"Dublin North-West", age:62, elected:"Yes"}),
+(`nRóisín Shortall`:Candidates {name:"Róisín Shortall", party:"Social Democrats", gender:"Female", constituency:"Dublin North-West", age:61, elected:"Yes"}),
+(`nNoel Rock`:Candidates {name:"Noel Rock", party:"Fine Gael", gender:"Male", constituency:"Dublin North-West", age:28, elected:"Yes"}),
+(`nPaul McAuliffe`:Candidates {name:"Paul McAuliffe", party:"Fianna Fail", gender:"Male", constituency:"Dublin North-West", age:38, elected:"No"}),
+(`nJohn Lyons`:Candidates {name:"John Lyons", party:"Labour", gender:"Male", constituency:"Dublin North-West", age:38, elected:"No"}),
+(`nCathleen Carney Boud`:Candidates {name:"Cathleen Carney Boud", party:"Sinn Fein", gender:"Female", constituency:"Dublin North-West", age:37, elected:"No"}),
+(`nAndrew Keegan`:Candidates {name:"Andrew Keegan", party:"AAA-PBP", gender:"Male", constituency:"Dublin North-West", age:52, elected:"No"}),
+(`nBernie Hughes`:Candidates {name:"Bernie Hughes", party:"Independent", gender:"Female", constituency:"Dublin North-West", age:"N/A", elected:"No"}),
+(`nCaroline Conroy`:Candidates {name:"Caroline Conroy", party:"Green Party", gender:"Female", constituency:"Dublin North-West", age:"N/A", elected:"No"}),
+(`nJimmy Dignam`:Candidates {name:"Jimmy Dignam", party:"Workers Party", gender:"Male", constituency:"Dublin North-West", age:28, elected:"No"}),
+(`nCormac McKay`:Candidates {name:"Cormac McKay", party:"Direct Democracy Ireland", gender:"Male", constituency:"Dublin North-West", age:35, elected:"No"})
+
+
+
+//Nodes representing candidates in Dublin Rathdown.
+
+Create (`nShane Ross`:Candidates {name:"Shane Ross", party:"Independent", gender:"Male", constituency:"Dublin Rathdown", age:66, elected:"Yes"}),
+(`nJosepha Madigan`:Candidates {name:"Josepha Madigan", party:"Fine Gael", gender:"Female", constituency:"Dublin Rathdown", age:46, elected:"Yes"}),
+(`nCatherine Martin`:Candidates {name:"Catherine Martin", party:"Green Party", gender:"Female", constituency:"Dublin Rathdown", age:43, elected:"Yes"}),
+(`nAlan Shatter`:Candidates {name:"Alan Shatter", party:"Fine Gael", gender:"Male", constituency:"Dublin Rathdown", age:64, elected:"No"}),
+(`nMary White`:Candidates {name:"Mary White", party:"Fianna Fail", gender:"Female", constituency:"Dublin Rathdown", age:71, elected:"No"}),
+(`nAlex White`:Candidates {name:"Alex White", party:"Labour", gender:"Male", constituency:"Dublin Rathdown", age:56, elected:"No"}),
+(`nSorcha Nic Cormaic`:Candidates {name:"Sorcha Nic Cormaic", party:"Sinn Fein", gender:"Female", constituency:"Dublin Rathdown", age:42, elected:"No"}),
+(`nPeter Mathews`:Candidates {name:"Peter Mathews", party:"Independent", gender:"Male", constituency:"Dublin Rathdown", age:64, elected:"No"}),
+(`nAlan Daveron`:Candidates {name:"Alan Daveron", party:"Renua Ireland", gender:"Male", constituency:"Dublin Rathdown", age:"N/A", elected:"No"})
+
