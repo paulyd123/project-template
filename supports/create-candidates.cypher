@@ -341,3 +341,51 @@ Create (`nPaul Murphy`:Candidates {name:"Paul Murphy", party:"AAA-PBP", gender:"
 (`nJoan Summerville-Molloy`:Candidates {name:"Joan Summerville-Molloy", party:"Independent", gender:"Female", constituency:"Dublin South-West", age:"N/A", elected:"No"}),
 (`nFrank O'Gorman`:Candidates {name:"Frank O'Gorman", party:"Independent", gender:"Male", constituency:"Dublin South-West", age:53, elected:"No"})
 
+
+
+//Nodes representing candidates in Dublin West.
+
+Create (`nLeo Varadkar`:Candidates {name:"Leo Varadkar", party:"Fine Gael", gender:"Male", constituency:"Dublin West", age:36, elected:"Yes"}),
+(`nRuth Coppinger`:Candidates {name:"Ruth Coppinger", party:"AAA-PBP", gender:"Female", constituency:"Dublin West", age:"N/A", elected:"Yes"}),
+(`nJack Chambers`:Candidates {name:"Jack Chambers", party:"Fianna Fail", gender:"Male", constituency:"Dublin West", age:25, elected:"Yes"}),
+(`nJoan Burton`:Candidates {name:"Joan Burton", party:"Labour", gender:"Female", constituency:"Dublin West", age:66, elected:"Yes"}),
+(`nPaul Donnelly`:Candidates {name:"Paul Donnelly", party:"Sinn Fein", gender:"Male", constituency:"Dublin West", age:47, elected:"No"}),
+(`nDavid McGuinness`:Candidates {name:"David McGuinness", party:"Independent", gender:"Male", constituency:"Dublin West", age:29, elected:"No"}),
+(`nRoderic O'Gorman`:Candidates {name:"Roderic O'Gorman", party:"Green Party", gender:"Male", constituency:"Dublin West", age:34, elected:"No"}),
+(`nTJ Clare`:Candidates {name:"TJ Clare", party:"Independent", gender:"Male", constituency:"Dublin West", age:25, elected:"No"}),
+(`nCatherine Noone`:Candidates {name:"Catherine Noone", party:"Fine Gael", gender:"Female", constituency:"Dublin West", age:39, elected:"No"}),
+(`nJo O'Brien`:Candidates {name:"Jo O'Brien", party:"Renua Ireland", gender:"Female", constituency:"Dublin West", age:"N/A", elected:"No"}),
+(`nDermot Casey`:Candidates {name:"Dermot Casey", party:"Independent", gender:"Male", constituency:"Dublin West", age:"N/A", elected:"No"})
+
+
+
+
+
+//Nodes representing candidates in Dun Laoghaire.
+
+Create (`nRichard Boyd Barrett`:Candidates {name:"Richard Boyd Barrett", party:"AAA-PBP", gender:"Male", constituency:"Dun Laoghaire", age:47, elected:"Yes"}),
+(`nMaria Bailey`:Candidates {name:"Maria Bailey", party:"Fine Gael", gender:"Female", constituency:"Dun Laoghaire", age:39, elected:"Yes"}),
+(`nMary Mitchell-O'Connor`:Candidates {name:"Mary Mitchell-O'Connor", party:"Fine Gael", gender:"Female", constituency:"Dun Laoghaire", age:56, elected:"Yes"}),
+(`nMary Hanafin`:Candidates {name:"Mary Hanafin", party:"Fianna Fail", gender:"Female", constituency:"Dun Laoghaire", age:56, elected:"No"}),
+(`nCarrie Smyth`:Candidates {name:"Carrie Smyth", party:"Labour", gender:"Female", constituency:"Dun Laoghaire", age:43, elected:"No"}),
+(`nCormac Devlin`:Candidates {name:"Cormac Devlin", party:"Fianna Fail", gender:"Male", constituency:"Dun Laoghaire", age:35, elected:"No"}),
+(`nOssian Smyth`:Candidates {name:"Ossian Smyth", party:"Green Party", gender:"Male", constituency:"Dun Laoghaire", age:44, elected:"No"}),
+(`nCarol Hunt`:Candidates {name:"Carol Hunt", party:"Independent", gender:"Female", constituency:"Dun Laoghaire", age:49, elected:"No"}),
+(`nShane O'Brien`:Candidates {name:"Shane O'Brien", party:"Sinn Fein", gender:"Male", constituency:"Dun Laoghaire", age:"N/A", elected:"No"}),
+(`nFrank Cronin`:Candidates {name:"Frank Cronin", party:"Renua Ireland", gender:"Male", constituency:"Dun Laoghaire", age:53, elected:"No"}),
+(`nRaymond Whitehead`:Candidates {name:"Raymond Whitehead", party:"Direct Democracy Ireland", gender:"Male", constituency:"Dun Laoghaire", age:"N/A", elected:"No"})
+
+
+
+
+//Nodes representing candidates in Galway East
+
+Create (`nMichael Fahy`:Candidates {name:"Michael Fahy", party:"Independent", gender:"Male", constituency:"Galway East", age:64, elected:"No"}),
+(`nAnnemarie Roche`:Candidates {name:"Annemarie Roche", party:"Sinn Fein", gender:"Female", constituency:"Galway East", age:36, elected:"No"}),
+(`nColm Keaveney`:Candidates {name:"Colm Keaveney", party:"Fianna Fail", gender:"Male", constituency:"Galway East", age:44, elected:"No"}),
+(`nLorraine Higgins`:Candidates {name:"Lorraine Higgins", party:"Labour", gender:"Female", constituency:"Galway East", age:36, elected:"No"}),
+(`nPaul Connaughton`:Candidates {name:"Paul Connaughton", party:"Fine Gael", gender:"Male", constituency:"Galway East", age:33, elected:"No"}),
+(`nCiarán Cannon`:Candidates {name:"Ciarán Cannon", party:"Fine Gael", gender:"Male", constituency:"Galway East", age:50, elected:"Yes"}),
+(`nSeán Canney`:Candidates {name:"Seán Canney", party:"Independent", gender:"Male", constituency:"Galway East", age:57, elected:"Yes"}),
+(`nAnne Rabbitte`:Candidates {name:"Anne Rabbitte", party:"Fianna Fail", gender:"Male", constituency:"Galway East", age:45, elected:"Yes"})
+
