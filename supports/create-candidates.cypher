@@ -228,3 +228,44 @@ Create (`nMary Lou McDonald`:Candidates {name:"Mary Lou McDonald", party:"Sinn F
 (`nWilliam D.J. Gorman`:Candidates {name:"William D.J. Gorman", party:"Independent", gender:"Male", constituency:"Dublin Central", age:"N/A", elected:"No"})
 
 
+
+//Nodes representing candidates in Dublin Fingal.
+
+Create (`nDarragh O'Brien`:Candidates {name:"Darragh O'Brien", party:"Fianna Fail", gender:"Male", constituency:"Dublin Fingal", age:41, elected:"Yes"}),
+(`nClare Daly`:Candidates {name:"Clare Daly", party:"Independents 4 Change", gender:"Female", constituency:"Dublin Fingal", age:47, elected:"Yes"}),
+(`nAlan Farrell`:Candidates {name:"Alan Farrell", party:"Fine Gael", gender:"Male", constituency:"Dublin Fingal", age:37, elected:"Yes"}),
+(`nBrendan Ryan`:Candidates {name:"Brendan Ryan", party:"Labour", gender:"Male", constituency:"Dublin Fingal", age:"N/A", elected:"Yes"}),
+(`nJames Reilly`:Candidates {name:"James Reilly", party:"Fine Gael", gender:"Female", constituency:"Dublin Fingal", age:60, elected:"No"}),
+(`nLorraine Clifford-Lee`:Candidates {name:"Lorraine Clifford-Lee", party:"Fianna Fail", gender:"Female", constituency:"Dublin Fingal", age:"N/A", elected:"No"}),
+(`nBarry Martin`:Candidates {name:"Barry Martin", party:"Independents 4 Change", gender:"Male", constituency:"Dublin Fingal", age:27, elected:"No"}),
+(`nJoe O'Brien`:Candidates {name:"Joe O'Brien", party:"Green Party", gender:"Male", constituency:"Dublin Fingal", age:38, elected:"No"}),
+(`nTony Murphy`:Candidates {name:"Tony Murphy", party:"Independent", gender:"Male", constituency:"Dublin Fingal", age:54, elected:"No"}),
+(`nGerry Molloy`:Candidates {name:"Gerry Molloy", party:"Renua Ireland", gender:"Male", constituency:"Dublin Fingal", age:"N/A", elected:"No"}),
+(`nTerry Kelleher`:Candidates {name:"Terry Kelleher", party:"AAA-PBP", gender:"Male", constituency:"Dublin Fingal", age:"N/A", elected:"No"}),
+(`nRoslyn Fuller`:Candidates {name:"Roslyn Fuller", party:"Independent", gender:"Female", constituency:"Dublin Fingal", age:35, elected:"No"}),
+(`nMarcus De Brun`:Candidates {name:"Marcus De Brun", party:"Independent", gender:"Male", constituency:"Dublin Fingal", age:46, elected:"No"}),
+(`nLouise O'Reilly`:Candidates {name:"Louise O'Reilly", party:"Sinn Féin", gender:"Female", constituency:"Dublin Fingal", age:42, elected:"No"}),
+(`nFergal O'Connell`:Candidates {name:"Fergal O'Connell", party:"Independent", gender:"Male", constituency:"Dublin Fingal", age:"N/A", elected:"No"})
+
+
+
+//Nodes representing candidates in Dublin Mid-West.
+
+Create (`nEoin O Broin`:Candidates {name:"Eoin O Broin", party:"Sinn Fein", gender:"Male", constituency:"Dublin Mid-West", age:44, elected:"Yes"}),
+(`nJohn Curran`:Candidates {name:"John Curran", party:"Fianna Fail", gender:"Male", constituency:"Dublin Mid-West", age:55, elected:"Yes"}),
+(`nFrances Fitzgerald`:Candidates {name:"Frances Fitzgerald", party:"Fine Gael", gender:"Female", constituency:"Dublin Mid-West", age:65, elected:"Yes"}),
+(`nGino Kenny`:Candidates {name:"Gino Kenny", party:"AAA-PBP", gender:"Male", constituency:"Dublin Mid-West", age:42, elected:"Yes"}),
+(`nAnne-Marie McNally`:Candidates {name:"Anne-Marie McNally", party:"Social Democrats", gender:"Female", constituency:"Dublin Mid-West", age:35, elected:"No"}),
+(`nDerek Keating`:Candidates {name:"Derek Keating", party:"Fine Gael", gender:"Male", constituency:"Dublin Mid-West", age:60, elected:"No"}),
+(`nPaul Gogarty`:Candidates {name:"Paul Gogarty", party:"Independent", gender:"Male", constituency:"Dublin Mid-West", age:47, elected:"No"}),
+(`nJoanna Tuffy`:Candidates {name:"Joanna Tuffy", party:"Labour", gender:"Male", constituency:"Dublin Mid-West", age:50, elected:"No"}),
+(`nFrancis Timmons`:Candidates {name:"Francis Timmons", party:"Independent", gender:"Male", constituency:"Dublin Mid-West", age:44, elected:"No"}),
+(`nLorraine Hennessy`:Candidates {name:"Lorraine Hennessy", party:"Workers Party", gender:"Female", constituency:"Dublin Mid-West", age:49, elected:"No"}),
+(`nTom Kivlehan`:Candidates {name:"Tom Kivlehan", party:"Green Party", gender:"Male", constituency:"Dublin Mid-West", age:"N/A", elected:"No"}),
+(`nClare Leonard`:Candidates {name:"Clare Leonard", party:"Independent", gender:"Male", constituency:"Dublin Mid-West", age:"N/A", elected:"No"}),
+(`nPatrick Akpoveta`:Candidates {name:"Patrick Akpoveta", party:"Independent", gender:"Male", constituency:"Dublin Mid-West", age:"N/A", elected:"No"}),
+(`nHaroon Khan`:Candidates {name:"Haroon Khan", party:"Independent", gender:"Male", constituency:"Dublin Mid-West", age:"N/A", elected:"No"}),
+(`nChristopher Healy`:Candidates {name:"Christopher Healy", party:"Direct Democracy Ireland", gender:"Male", constituency:"Dublin Mid-West", age:"N/A", elected:"No"})
+
+
+
