@@ -144,3 +144,22 @@ Create (`nMargaret Murphy-O'Mahony`:Candidates {name:"Margaret Murphy-O'Mahony",
 (`nTheresa Heaney`:Candidates {name:"Theresa Heaney", party:"Catholic Democrats", gender:"Female", constituency:"Cork South-West", age:52, elected:"No"}),
 (`nFiona O'Leary`:Candidates {name:"Fiona O'Leary", party:"Independent", gender:"Female", constituency:"Cork South-West", age:44, elected:"No"})
 
+
+//Nodes representing candidates in Donegal.
+
+CREATE (`nPat Gallagher`:Candidates {name: "Pat Gallagher", party: "Fianna Fail", gender: "Male", age: 67, constituency: "Donegal", elected: "Yes"}),
+(`nPearse Doherty`:Candidates {name: "Pearse Doherty", party: "Sinn Fein", gender: "Male", age: 38, constituency: "Donegal", elected: "Yes"}),
+(`nCharlie McConalogue`:Candidates {name: "Charlie McConalogue", party: "Fianna Fail", gender: "Male", age: 38, constituency: "Donegal", elected: "Yes"}),
+(`nJoe McHugh`:Candidates {name: "Joe McHugh", party: "Fine Gael", gender: "Male", age: 44, constituency: "Donegal", elected: "Yes"}),
+(`nThomas Pringle`:Candidates {name: "Thomas Pringle", party: "Independent", gender: "Male", age: 48, constituency: "Donegal", elected: "Yes"}),
+(`nPadraig Mac Lochlainn`:Candidates {name: "Padraig Mac Lochlainn", party: "Sinn Fein", gender: "Male", age: 42, constituency: "Donegal", elected: "No"}),
+(`nTim Jackson`:Candidates {name: "Tim Jackson", party: "Independent", gender: "Male", age: 26, constituency: "Donegal", elected: "No"}),
+(`nDessie Shiels`:Candidates {name: "Dessie Shiels", party: "Independent", gender: "Male", age: 39, constituency: "Donegal", elected: "No"}),
+(`nGary Doherty`:Candidates {name: "Gary Doherty", party: "Sinn Fein", gender: "Male", age: 33, constituency: "Donegal", elected: "No"}),
+(`nPaddy Harte`:Candidates {name: "Paddy Harte", party: "Fine Gael", gender: "Male", age: 60, constituency: "Donegal", elected: "No"}),
+(`nNiamh Kennedy`:Candidates {name: "Niamh Kennedy", party: "Independent", gender: "Female", age: 46, constituency: "Donegal", elected: "No"}),
+(`nFrank McBrearty`:Candidates {name: "Frank McBrearty", party: "Independent", gender: "Male", age: 46, constituency: "Donegal", elected: "No"}),
+(`nIan McGarvey`:Candidates {name: "Ian McGarvey", party: "Independent", gender: "Male", age: 85, constituency: "Donegal", elected: "No"}),
+(`nMichael Mooney`:Candidates {name: "Michael Mooney", party: "Independent", gender: "Male", age: "N/A", constituency: "Donegal", elected: "No"}),
+(`nPaula Flanagan`:Candidates {name: "Paula Flanagan", party: "Green Party", gender: "Female", age: 47, constituency: "Donegal", elected: "No"}),
+(`nCordelia Nic Fhearraigh`:Candidates {name: "Cordelia Nic Fhearraigh", party: "Fis Nua", gender: "Female", age: "N/A", constituency: "Donegal", elected: "No"})
