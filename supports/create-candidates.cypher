@@ -95,7 +95,7 @@ Create (`nBilly Kelleher`:Candidates {name:"Billy Kelleher", party:"Fianna Fail"
 (`nPeter O'Loughlin`:Candidates {name:"Peter O'Loughlin", party:"Independent", gender:"Male", constituency:"Cork North-Central", age:"N/A", elected:"No"})
 
 
-//Nodes representing candidates in Cork North-West.
+//Nodes representing candidates in Cork North-West
 
 Create (`nMichael Creed`:Candidates {name:"Michael Creed", party:"Fine Gael", gender:"Male", constituency:"Cork North-West", age:52, elected:"Yes"}),
 (`nAindrias Moynihan`:Candidates {name:"Aindrias Moynihan", party:"Fianna Fáil", gender:"Male", constituency:"Cork North-West", age:"N/A", elected:"Yes"}),
@@ -107,6 +107,24 @@ Create (`nMichael Creed`:Candidates {name:"Michael Creed", party:"Fine Gael", ge
 (`nJason Fitzgerald`:Candidates {name:"Jason Fitzgerald", party:"Renua Ireland", gender:"Male", constituency:"Cork North-West", age:42, elected:"No"}),
 (`nSteven O'Riordan`:Candidates {name:"Steven O'Riordan", party:"Independent", gender:"Male", constituency:"Cork North-West", age:29, elected:"No"}),
 (`nCormac Manning`:Candidates {name:"Cormac Manning", party:"Green Party", gender:"Male", constituency:"Cork North-West", age:23, elected:"No"}),
-(`nJerry O'Sullivan`:Candidates {name:"Jerry O'Sullivan", party:"Independent", gender:"Male", constituency:"Cork Noth-West", age:52, elected:"No"}),
+(`nJerry O'Sullivan`:Candidates {name:"Jerry O'Sullivan", party:"Independent", gender:"Male", constituency:"Cork North-West", age:52, elected:"No"}),
 (`nShirley Griffin`:Candidates {name:"Shirley Griffin", party:"Independent", gender:"Female", constituency:"Cork North-West", age:50, elected:"No"}),
 (`nMichael O'Donnell`:Candidates {name:"Michael O'Donnell", party:" Communist Party of Ireland", gender:"Male", constituency:"Cork North-West", age:"N/A", elected:"No"})
+
+
+//Nodes representing candidates in Cork South-Central.
+
+Create (`nMichael McGrath`:Candidates {name:"Michael McGrath", party:"Fianna Fail", gender:"Male", constituency:"Cork South-Central", age:39, elected:"Yes"}),
+(`nMicheál Martin`:Candidates {name:"Micheál Martin", party:"Fianna Fáil", gender:"Male", constituency:"Cork South-Central", age:"55", elected:"Yes"}),
+(`nDonnchadh O Laoghaire`:Candidates {name:"Donnchadh O Laoghaire", party:"Sinn Féin", gender:"Male", constituency:"Cork South-Central", age:26, elected:"Yes"}),
+(`nSimon Coveney`:Candidates {name:"Simon Coveney", party:"Fine Gael", gender:"Male", constituency:"Cork South-Central", age:"43", elected:"No"}),
+(`nJerry Buttimer`:Candidates {name:"Jerry Buttimer", party:"Fine Gael", gender:"Male", constituency:"Cork South-Central", age:48, elected:"No"}),
+(`nMick Finn`:Candidates {name:"Mick Finn", party:"Independent", gender:"Male", constituency:"Cork South-Central", age:45, elected:"No"}),
+(`nLorna Bogue`:Candidates {name:"Lorna Bogue", party:"Green Party", gender:"Female", constituency:"Cork South-Central", age:"24", elected:"No"}),
+(`nCiarán Lynch`:Candidates {name:"Ciarán Lynch", party:"Labour", gender:"Male", constituency:"Cork South-Central", age:51, elected:"No"}),
+(`nFiona Ryan`:Candidates {name:"Fiona Ryan", party:"AAA-PBP", gender:"Male", constituency:"Cork South-Central", age:26, elected:"No"}),
+(`nDiarmaid O Cadhla`:Candidates {name:"Diarmaid O Cadhla", party:"Independent", gender:"Male", constituency:"Cork South-Central", age:55, elected:"No"}),
+(`nJim O'Connell`:Candidates {name:"Jim O'Connell", party:"AAA-PBP", gender:"Male", constituency:"Cork South-Central", age:56, elected:"No"}),
+(`nJoe Harris`:Candidates {name:"Joe Harris", party:"Independent", gender:"Male", constituency:"Cork South-Central", age:58, elected:"No"}),
+(`nElizabeth Hourihane`:Candidates {name:"Elizabeth Hourihane", party:"Independent", gender:"Female", constituency:"Cork South-Central", age:49, elected:"No"}),
+(`nMichael Mohally`:Candidates {name:"Michael Mohally", party:"Independent", gender:"Male", constituency:"Cork South-Central", age:"N/A", elected:"No"})
