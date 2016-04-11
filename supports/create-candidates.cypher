@@ -128,3 +128,19 @@ Create (`nMichael McGrath`:Candidates {name:"Michael McGrath", party:"Fianna Fai
 (`nJoe Harris`:Candidates {name:"Joe Harris", party:"Independent", gender:"Male", constituency:"Cork South-Central", age:58, elected:"No"}),
 (`nElizabeth Hourihane`:Candidates {name:"Elizabeth Hourihane", party:"Independent", gender:"Female", constituency:"Cork South-Central", age:49, elected:"No"}),
 (`nMichael Mohally`:Candidates {name:"Michael Mohally", party:"Independent", gender:"Male", constituency:"Cork South-Central", age:"N/A", elected:"No"})
+
+
+//Nodes representing candidates in Cork South-West.
+
+Create (`nMargaret Murphy-O'Mahony`:Candidates {name:"Margaret Murphy-O'Mahony", party:"Fianna Fail", gender:"Female", constituency:"Cork South-West", age:48, elected:"Yes"}),
+(`nMichael Collins`:Candidates {name:"Michael Collins", party:"Independent", gender:"Female", constituency:"Cork South-West", age:"N/A", elected:"Yes"}),
+(`nJim Daly`:Candidates {name:"Jim Daly", party:"Fine Gael", gender:"Male", constituency:"Cork South-West", age:42, elected:"Yes"}),
+(`nNoel Harrington`:Candidates {name:"Noel Harrington", party:"Fine Gael", gender:"Male", constituency:"Cork South-West", age:44, elected:"No"}),
+(`nAlan Coleman`:Candidates {name:"Alan Coleman", party:"Independent", gender:"Male", constituency:"Cork South-West", age:58, elected:"No"}),
+(`nRachel McCarthy`:Candidates {name:"Rachel McCarthy", party:"Sinn Fein", gender:"Female", constituency:"Cork South-West", age:"N/A", elected:"No"}),
+(`nMichael McCarthy`:Candidates {name:"Michael McCarthy", party:"Labour", gender:"Male", constituency:"Cork South-West", age:38, elected:"No"}),
+(`nJohnny O'Mahony`:Candidates {name:"Johnny O'Mahony", party:"Green Party", gender:"Male", constituency:"Cork South-West", age:"N/A", elected:"No"}),
+(`nGillian Powell`:Candidates {name:"Gillian Powell", party:"Independent", gender:"Female", constituency:"Cork South-West", age:"N/A", elected:"No"}),
+(`nTheresa Heaney`:Candidates {name:"Theresa Heaney", party:"Catholic Democrats", gender:"Female", constituency:"Cork South-West", age:52, elected:"No"}),
+(`nFiona O'Leary`:Candidates {name:"Fiona O'Leary", party:"Independent", gender:"Female", constituency:"Cork South-West", age:44, elected:"No"})
+
