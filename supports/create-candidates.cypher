@@ -297,3 +297,47 @@ Create (`nShane Ross`:Candidates {name:"Shane Ross", party:"Independent", gender
 (`nPeter Mathews`:Candidates {name:"Peter Mathews", party:"Independent", gender:"Male", constituency:"Dublin Rathdown", age:64, elected:"No"}),
 (`nAlan Daveron`:Candidates {name:"Alan Daveron", party:"Renua Ireland", gender:"Male", constituency:"Dublin Rathdown", age:"N/A", elected:"No"})
 
+
+
+//Nodes representing candidates in Dublin South-Central.
+
+Create (`nCatherine Byrne`:Candidates {name:"Catherine Byrne", party:"Fine Gael", gender:"Female", constituency:"Dublin South-Central", age:59, elected:"Yes"}),
+(`nAengus O Snodaigh`:Candidates {name:"Aengus O Snodaigh", party:"Sinn Fein", gender:"Male", constituency:"Dublin South-Central", age:51, elected:"Yes"}),
+(`nJoan Collins`:Candidates {name:"Joan Collins", party:"Independents 4 Change", gender:"Female", constituency:"Dublin South-Central", age:54, elected:"Yes"}),
+(`nBrid Smith`:Candidates {name:"Brid Smith", party:"AAA-PBP", gender:"Female", constituency:"Dublin South-Central", age:57, elected:"Yes"}),
+(`nCatherine Ardagh`:Candidates {name:"Catherine Ardagh", party:"Fianna Fail", gender:"Female", constituency:"Dublin South-Central", age:33, elected:"No"}),
+(`nEric Byrne`:Candidates {name:"Eric Byrne", party:"Labour", gender:"Male", constituency:"Dublin South-Central", age:68, elected:"No"}),
+(`nMaire Devine`:Candidates {name:"Maire Devine", party:"Sinn Fein", gender:"Male", constituency:"Dublin South-Central", age:52, elected:"No"}),
+(`nLiam Coyne`:Candidates {name:"Liam Coyne", party:"Social Democrats", gender:"Male", constituency:"Dublin South-Central", age:49, elected:"No"}),
+(`nPaul Hand`:Candidates {name:"Paul Hand", party:"Independent", gender:"Male", constituency:"Dublin South-Central", age:29, elected:"No"}),
+(`nOisin O hAlmhain`:Candidates {name:"Oisin O hAlmhain", party:"Green Party", gender:"Male", constituency:"Dublin South-Central", age:43, elected:"No"}),
+(`nMichael Gargan`:Candidates {name:"Michael Gargan", party:"Renua Ireland", gender:"Male", constituency:"Dublin South-Central", age:36, elected:"No"}),
+(`nNeville Bradley`:Candidates {name:"Neville Bradley", party:"Direct Democracy Ireland", gender:"Male", constituency:"Dublin South-Central", age:"N/A", elected:"No"}),
+(`nRichard Murray`:Candidates {name:"Richard Murray", party:"Independent", gender:"Male", constituency:"Dublin South-Central", age:30, elected:"No"})
+
+
+
+//Nodes representing candidates in Dublin South-West.
+
+Create (`nPaul Murphy`:Candidates {name:"Paul Murphy", party:"AAA-PBP", gender:"Male", constituency:"Dublin South-West", age:32, elected:"Yes"}),
+(`nJohn Lahart`:Candidates {name:"John Lahart", party:"Fianna Fail", gender:"Male", constituency:"Dublin South-West", age:51, elected:"Yes"}),
+(`nSean Crowe`:Candidates {name:"Sean Crowe", party:"Sinn Fein", gender:"Male", constituency:"Dublin South-West", age:58, elected:"Yes"}),
+(`nColm Brophy`:Candidates {name:"Colm Brophy", party:"Fine Gael", gender:"Male", constituency:"Dublin South-West", age:49, elected:"Yes"}),
+(`nKatherine Zappone`:Candidates {name:"Katherine Zappone", party:"Independent", gender:"Female", constituency:"Dublin South-West", age:61, elected:"Yes"}),
+(`nAnne-Marie Dermody`:Candidates {name:"Anne-Marie Dermody", party:"Fine Gael", gender:"Female", constituency:"Dublin South-West", age:46, elected:"No"}),
+(`nPeter Fitzpatrick`:Candidates {name:"Peter Fitzpatrick", party:"Independent", gender:"Male", constituency:"Dublin South-West", age:35, elected:"No"}),
+(`nPamela Kearns`:Candidates {name:"Pamela Kearns", party:"Labour", gender:"Female", constituency:"Dublin South-West", age:56, elected:"No"}),
+(`nSandra Fay`:Candidates {name:"Sandra Fay", party:"AAA-PBP", gender:"Female", constituency:"Dublin South-West", age:36, elected:"No"}),
+(`nRonan McMahon`:Candidates {name:"Ronan McMahon", party:"Renua Ireland", gender:"Male", constituency:"Dublin South-West", age:49, elected:"No"}),
+(`nSarah Holland`:Candidates {name:"Sarah Holland", party:"Sinn Fein", gender:"Female", constituency:"Dublin South-West", age:37, elected:"No"}),
+(`nDeirdre O'Donovan`:Candidates {name:"Deirdre O'Donovan", party:"Independent", gender:"Female", constituency:"Dublin South-West", age:43, elected:"No"}),
+(`nMick Duff`:Candidates {name:"Mick Duff", party:"Labour", gender:"Male", constituency:"Dublin South-West", age:65, elected:"No"}),
+(`nEamonn Maloney`:Candidates {name:"Eamonn Maloney", party:"Independent", gender:"Male", constituency:"Dublin South-West", age:62, elected:"No"}),
+(`nFrancis Noel Duffy`:Candidates {name:"Francis Noel Duffy", party:"Green Party", gender:"Male", constituency:"Dublin South-West", age:44, elected:"No"}),
+(`nKaren Warren`:Candidates {name:"Karen Warren", party:"Fine Gael", gender:"Female", constituency:"Dublin South-West", age:50, elected:"No"}),
+(`nDeclan Burke`:Candidates {name:"Declan Burke", party:"Independent", gender:"Male", constituency:"Dublin South-West", age:22, elected:"No"}),
+(`nStephen Sinclair`:Candidates {name:"Stephen Sinclair", party:"Direct Democracy Ireland", gender:"Male", constituency:"Dublin South-West", age:55, elected:"No"}),
+(`nKieran-Adam Quigley`:Candidates {name:"Kieran-Adam Quigley", party:"Independent", gender:"Male", constituency:"Dublin South-West", age:"N/A", elected:"No"}),
+(`nJoan Summerville-Molloy`:Candidates {name:"Joan Summerville-Molloy", party:"Independent", gender:"Female", constituency:"Dublin South-West", age:"N/A", elected:"No"}),
+(`nFrank O'Gorman`:Candidates {name:"Frank O'Gorman", party:"Independent", gender:"Male", constituency:"Dublin South-West", age:53, elected:"No"})
+
