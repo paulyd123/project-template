@@ -188,3 +188,43 @@ Create (`nRichard Bruton`:Candidates {name:"Richard Bruton", party:"Fine Gael", 
 (`nPaul Clarke`:Candidates {name:"Paul Clarke", party:"Independent", gender:"Male", constituency:"Dublin Bay North", age:32, elected:"No"}),
 (`nProinsias O Conarain`:Candidates {name:"Proinsias O Conarain", party:"Independent", gender:"Male", constituency:"Dublin Bay North", age:"N/A", elected:"No"})
 
+
+
+
+//Nodes representing candidates in Dublin Bay South.
+
+Create (`nEamon Ryan`:Candidates {name:"Eamon Ryan", party:"Green Party", gender:"Male", constituency:"Dublin Bay South", age:52, elected:"Yes"}),
+(`nEoghan Murphy`:Candidates {name:"Eoghan Murphy", party:"Fine Gael", gender:"Male", constituency:"Dublin Bay South", age:33, elected:"Yes"}),
+(`nJim O'Callaghan`:Candidates {name:"Jim O'Callaghan", party:"Fianna Fail", gender:"Male", constituency:"Dublin Bay South", age:47, elected:"Yes"}),
+(`nKate O'Connell`:Candidates {name:"Kate O'Connell", party:"Fine Gael", gender:"Female", constituency:"Dublin Bay South", age:36, elected:"Yes"}),
+(`nKevin Humphreys`:Candidates {name:"Kevin Humphreys", party:"Labour", gender:"Male", constituency:"Dublin Bay South", age:57, elected:"No"}),
+(`nChris Andrews`:Candidates {name:"Chris Andrews", party:"Sinn Fein", gender:"Male", constituency:"Dublin Bay South", age:51, elected:"No"}),
+(`nLucinda Creighton`:Candidates {name:"Lucinda Creighton", party:"Renua Ireland", gender:"Female", constituency:"Dublin Bay South", age:36, elected:"No"}),
+(`nGlenna Lynch`:Candidates {name:"Glenna Lynch", party:"Social Democrats", gender:"Female", constituency:"Dublin Bay South", age:52, elected:"No"}),
+(`nAnnette Mooney`:Candidates {name:"Annette Mooney", party:"AAA-PBP", gender:"Male", constituency:"Dublin Bay South", age:48, elected:"No"}),
+(`nMannix Flynn`:Candidates {name:"Mannix Flynn", party:"Independent", gender:"Male", constituency:"Dublin Bay South", age:58, elected:"No"}),
+(`nAlan Mac Stiofain`:Candidates {name:"Alan Mac Stiofain", party:"Independent", gender:"Male", constituency:"Dublin Bay South", age:33, elected:"No"}),
+(`nEoin Tierney`:Candidates {name:"Eoin Tierney", party:"Independent", gender:"Male", constituency:"Dublin Bay South", age:42, elected:"No"}),
+(`nWilliam D.J. Gorman`:Candidates {name:"William D.J. Gorman", party:"Independent", gender:"Male", constituency:"Dublin Bay South", age:"N/A", elected:"No"}),
+(`nJohn Dominic Keigher`:Candidates {name:"John Dominic Keigher", party:"Independent", gender:"Male", constituency:"Dublin Bay South", age:"N/A", elected:"No"})
+
+
+//Nodes representing candidates in Dublin Central
+
+Create (`nMary Lou McDonald`:Candidates {name:"Mary Lou McDonald", party:"Sinn Fein", gender:"Female", constituency:"Dublin Central", age:46, elected:"Yes"}),
+(`nPaschal Donohoe`:Candidates {name:"Paschal Donohoe", party:"Fine Gael", gender:"Male", constituency:"Dublin Central", age:41, elected:"Yes"}),
+(`nMaureen O'Sullivan`:Candidates {name:"Maureen O'Sullivan", party:"Independent", gender:"Female", constituency:"Dublin Central", age:64, elected:"Yes"}),
+(`nGary Gannon`:Candidates {name:"Gary Gannon", party:"Social Democrats", gender:"Male", constituency:"Dublin Central", age:28, elected:"No"}),
+(`nChristy Burke`:Candidates {name:"Christy Burke", party:"Independent", gender:"Male", constituency:"Dublin Central", age:68, elected:"No"}),
+(`nMary Fitzpatrick`:Candidates {name:"Mary Fitzpatrick", party:"Fianna Fail", gender:"Female", constituency:"Dublin Central", age:46, elected:"No"}),
+(`nJoe Costello`:Candidates {name:"Joe Costello", party:"Labour", gender:"Male", constituency:"Dublin Central", age:70, elected:"No"}),
+(`nCieran Perry`:Candidates {name:"Cieran Perry", party:"Independent", gender:"Male", constituency:"Dublin Central", age:53, elected:"No"}),
+(`nDiana O'Dwyer`:Candidates {name:"Diana O'Dwyer", party:"AAA-PBP", gender:"Female", constituency:"Dublin Central", age:37, elected:"No"}),
+(`nIan Noel Smyth`:Candidates {name:"Ian Noel Smyth", party:"Green Party", gender:"Male", constituency:"Dublin Central", age:"N/A", elected:"No"}),
+(`nJacqui Gilbourne`:Candidates {name:"Jacqui Gilbourne", party:"Renua Ireland", gender:"Female", constituency:"Dublin Central", age:"N/A", elected:"No"}),
+(`nEilis Ryan`:Candidates {name:"Eilis Ryan", party:"Workers Party", gender:"Female", constituency:"Dublin Central", age:31, elected:"No"}),
+(`nCormac McKay`:Candidates {name:"Cormac McKay", party:"Direct Democracy Ireland", gender:"Male", constituency:"Dublin Central", age:35, elected:"No"}),
+(`nKerry Guinan`:Candidates {name:"Kerry Guinan", party:"Independent", gender:"Female", constituency:"Dublin Central", age:23, elected:"No"}),
+(`nWilliam D.J. Gorman`:Candidates {name:"William D.J. Gorman", party:"Independent", gender:"Male", constituency:"Dublin Central", age:"N/A", elected:"No"})
+
+
