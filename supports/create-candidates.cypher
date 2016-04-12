@@ -752,3 +752,18 @@ Create(`nStephen Donnelly`:Candidates {name:"Stephen Donnelly", party:"Social De
 (`nCharlie Keddy`:Candidates {name:"Charlie Keddy", party:"Independent", gender:"Male", constituency:"Wicklow", age:71, elected:"No"}),
 (`nKatrina Hutchinson`:Candidates {name:"Katrina Hutchinson", party:"Direct Democracy Ireland", gender:"Female", constituency:"Wicklow", age:"N/A", elected:"No"}),
 (`nBob Kearns`:Candidates {name:"Bob Kearns", party:"Independent", gender:"Male", constituency:"Wicklow", age:74, elected:"No"})
+
+
+
+//Nodes representing candidates in Limerick County
+
+Create(`nNiall Collins`:Candidates {name:"Niall Collins", party:"Fianna Fail", gender:"Male", constituency:"Limerick County", age:42, elected:"Yes"}),
+(`nTom Neville`:Candidates {name:"Tom Neville", party:"Fine Gael", gender:"Male", constituency:"Limerick County", age:"N/A", elected:"Yes"}),
+(`nPatrick O'DoNovan`:Candidates {name:"Patrick O'DoNovan", party:"Fine Gael", gender:"Male", constituency:"Limerick County", age:38, elected:"Yes"}),
+(`nEmmett O'Brien`:Candidates {name:"Emmett O'Brien", party:"Independent", gender:"Male", constituency:"Limerick County", age:"N/A", elected:"No"}),
+(`nJames Heffernan`:Candidates {name:"James Heffernan", party:"Social Democrats", gender:"Male", constituency:"Limerick County", age:36, elected:"No"}),
+(`nSeamus Browne`:Candidates {name:"Seamus Browne", party:"Sinn Fein", gender:"Male", constituency:"Limerick County", age:45, elected:"No"}),
+(`nRichard O'DoNoghue`:Candidates {name:"Richard O'DoNoghue", party:"Independent", gender:"Male", constituency:"Limerick County", age:"N/A", elected:"No"}),
+(`nAlexander Cosgrave`:Candidates {name:"Alexander Cosgrave", party:"Green Party", gender:"Male", constituency:"Limerick County", age:21, elected:"No"}),
+(`nMark Keogh`:Candidates {name:"Mark Keogh", party:"Direct Democracy Ireland", gender:"Male", constituency:"Limerick County", age:42, elected:"No"}),
+(`nJohn O'Gorman`:Candidates {name:"John O'Gorman", party:"Independent", gender:"Male", constituency:"Limerick County", age:"N/A", elected:"No"})
