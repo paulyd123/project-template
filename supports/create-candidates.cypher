@@ -488,7 +488,6 @@ Create (`nSeán Fleming`:Candidates {name:"Seán Fleming", party:"Fianna Fail", 
 
 //Nodes representing candidates in Limerick City.
 
-
 Create (`nWillie O'Dea`:Candidates {name:"Willie O'Dea", party:"Fianna Fail", gender:"Male", constituency:"Limerick City", age:62, elected:"Yes"}),
 (`nMaurice Quinlivan`:Candidates {name:"Maurice Quinlivan", party:"Sinn Fein", gender:"Male", constituency:"Limerick City", age:48, elected:"Yes"}),
 (`nJan O'Sullivan`:Candidates {name:"Jan O'Sullivan", party:"Labour", gender:"Female", constituency:"Limerick City", age:64, elected:"Yes"}),
@@ -501,3 +500,48 @@ Create (`nWillie O'Dea`:Candidates {name:"Willie O'Dea", party:"Fianna Fail", ge
 (`nDesmond Hayes`:Candidates {name:"Desmond Hayes", party:"Independent", gender:"Male", constituency:"Limerick City", age:47, elected:"No"}),
 (`nDenis Riordan`:Candidates {name:"Denis Riordan", party:"Independent", gender:"Male", constituency:"Limerick City", age:66, elected:"No"})
 
+
+
+
+//Nodes representing candidates in Longford-Westmeath
+
+Create (`nRobert Troy`:Candidates {name: "Robert Troy", party: "Fianna Fail", gender: "Male", age: 33, constituency: "Longford-Westmeath", elected: "Yes"}),
+(`nPeter Burke`:Candidates {name: "Peter Burke", party: "Fine Gael", gender: "Male", age: 33, constituency: "Longford-Westmeath", elected: "Yes"}),
+(`nKevin'Boxer`:Candidates {name: "Kevin'Boxer' Moran", party: "Independent", gender: "Male", age: 45, constituency: "Longford-Westmeath", elected: "Yes"}),
+(`nWillie Penrose`:Candidates {name: "Willie Penrose", party: "Labour", gender: "Male", age: 59, constituency: "Longford-Westmeath", elected: "Yes"}),
+(`nPaul Hogan`:Candidates {name: "Paul Hogan", party: "Sinn Fein", gender: "Male", age: 32, constituency: "Longford-Westmeath", elected: "No"}),
+(`nJames Bannon`:Candidates {name: "James Bannon", party: "Fine Gael", gender: "Male", age: 57, constituency: "Longford-Westmeath", elected: "No"}),
+(`nConnie Gerety-Quinn`:Candidates {name: "Connie Gerety-Quinn", party: "Fianna Fail", gender: "Female", age: 48, constituency: "Longford-Westmeath", elected: "No"}),
+(`nJames Morgan`:Candidates {name: "James Morgan", party: "Independent", gender: "Male", age: 44, constituency: "Longford-Westmeath", elected: "No"}),
+(`nGabrielle McFadden`:Candidates {name: "Gabrielle McFadden", party: "Fine Gael", gender: "Female", age: 48, constituency: "Longford-Westmeath", elected: "No"}),
+(`nMae Sexton`:Candidates {name: "Mae Sexton", party: "Independent", gender: "Female", age: 60, constituency: "Longford-Westmeath", elected: "No"}),
+(`nManchan Magan`:Candidates {name: "Manchan Magan", party: "Green Party", gender: "Male", age: 45, constituency: "Longford-Westmeath", elected: "No"}),
+(`nBrian Fagan`:Candidates {name: "Brian Fagan", party: "Independent", gender: "Male", age: "N/A", constituency: "Longford-Westmeath", elected: "No"}),
+(`nNoel McKervey`:Candidates {name: "Noel McKervey", party: "Catholic Democrats", gender: "Male", age: "N/A", constituency: "Longford-Westmeath", elected: "No"}),
+(`nDominic Parker`:Candidates {name: "Dominic Parker", party: "AAA-PBP", gender: "Male", age: "N/A", constituency: "Longford-Westmeath", elected: "No"}),
+(`nBarbara Smyth`:Candidates {name: "Barbara Smyth", party: "Independent", gender: "Female", age: 48, constituency: "Longford-Westmeath", elected: "No"}),
+(`nJames Miller`:Candidates {name: "James Miller", party: "Independent", gender: "Male", age: 63, constituency: "Longford-Westmeath", elected: "No"}),
+(`nStephanie Healy`:Candidates {name: "Stephanie Healy", party: "Direct Democracy Ireland", gender: "Female", age: 27, constituency: "Longford-Westmeath", elected: "No"}),
+(`nDonal Jackson`:Candidates {name: "Donal Jackson", party: "Independent", gender: "Male", age: "N/A", constituency: "Longford-Westmeath", elected: "No"})
+
+
+
+
+//Nodes representing candidates in Louth.
+
+Create (`nImelda Munster`:Candidates {name: "Imelda Munster", party: "Sinn Fein", gender: "Female", age: "N/A", constituency: "Louth", elected: "Yes"}),
+(`nDeclan Breathnach`:Candidates {name: "Declan Breathnach", party: "Fianna Fail", gender: "Male", age: 57, constituency: "Louth", elected: "Yes"}),
+(`nGerry Adams`:Candidates {name: "Gerry Adams", party: "Sinn Fein", gender: "Male", age: 67, constituency: "Louth", elected: "Yes"}),
+(`nFergus O'Dowd`:Candidates {name: "Fergus O'Dowd", party: "Fine Gael", gender: "Male", age: 67, constituency: "Louth", elected: "Yes"}),
+(`nPeter Fitzpatrick`:Candidates {name: "Peter Fitzpatrick", party: "Fine Gael", gender: "Male", age: 53, constituency: "Louth", elected: "Yes"}),
+(`nGed Nash`:Candidates {name: "Ged Nash", party: "Labour", gender: "Male", age: 39, constituency: "Louth", elected: "No"}),
+(`nGarreth Weldon`:Candidates {name: "Garreth Weldon", party: "AAA-PBP", gender: "Male", age: "N/A", constituency: "Louth", elected: "No"}),
+(`nKevin Callan`:Candidates {name: "Kevin Callan", party: "Independent", gender: "Male", age: 33, constituency: "Louth", elected: "No"}),
+(`nMark Dearey`:Candidates {name: "Mark Dearey", party: "Green Party", gender: "Male", age: 52, constituency: "Louth", elected: "No"}),
+(`nEmma Coffey`:Candidates {name: "Emma Coffey", party: "Fianna Fail", gender: "Female", age: 37, constituency: "Louth", elected: "No"}),
+(`nMaeve Yore`:Candidates {name: "Maeve Yore", party: "Independent", gender: "Female", age: 50, constituency: "Louth", elected: "No"}),
+(`nMichael O'Dowd`:Candidates {name: "Michael O'Dowd", party: "Renua Ireland", gender: "Male", age: "N/A", constituency: "Louth", elected: "No"}),
+(`nMary Moran`:Candidates {name: "Mary Moran", party: "Labour", gender: "Female", age: 55, constituency: "Louth", elected: "No"}),
+(`nAnthony Connor`:Candidates {name: "Anthony Connor", party: "Direct Democracy Ireland", gender: "Male", age: 42, constituency: "Louth", elected: "No"}),
+(`nDavid Bradley`:Candidates {name: "David Bradley", party: "Independent", gender: "Male", age: 61, constituency: "Louth", elected: "No"}),
+(`nPat Greene`:Candidates {name: "Pat Greene", party: "Direct Democracy Ireland", gender: "Male", age: 52, constituency: "Louth", elected: "No"})
