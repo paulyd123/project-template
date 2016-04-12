@@ -20,3 +20,14 @@ match (n{constituency:"Clare"}), (a{name:"Clare"}) create (n)-[r:RAN]->(a) retur
 
 match (n{constituency:"Limerick City"}), (a{name:"Limerick City"}) create (n)-[r:RAN]->(a) return n,a
 
+match (n{constituency:"Donegal"}), (a{name:"Donegal"}) create (n)-[r:RAN]->(a) return n,a
+
+match (n{constituency:"Sligo-Leitrim"}), (a{name:"Sligo-Leitrim"}) create (n)-[r:RAN]->(a) return n,a
+
+match (n{constituency:"Cavan-Monaghan"}), (a{name:"Cavan-Monaghan"}) create (n)-[r:RAN]->(a) return n,a
+
+match (n{constituency:"Louth"}), (a{name:"Louth"}) create (n)-[r:RAN]->(a) return n,a
+
+match (n{constituency:"Meath East"}), (a{name:"Meath East"}) create (n)-[r:RAN]->(a) return n,a
+
+match (n{constituency:"Meath West"}), (a{name:"Meath West"}) create (n)-[r:RAN]->(a) return n,a
