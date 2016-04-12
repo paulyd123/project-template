@@ -705,3 +705,50 @@ Create(`nJohn Halligan`:Candidates {name:"John Halligan", party:"Independent", g
 (`nJohn Walsh`:Candidates {name:"John Walsh", party:"Independent", gender:"Male", constituency:"Waterford", age:64, elected:"No"}),
 (`nEdward Quilty`:Candidates {name:"Edward Quilty", party:"Direct Democracy Ireland", gender:"Male", constituency:"Waterford", age:"N/A", elected:"No"}),
 (`nSheikh M. Ahmed`:Candidates {name:"Sheikh M. Ahmed", party:"Independent", gender:"Male", constituency:"Waterford", age:"N/A", elected:"No"})
+
+
+
+
+
+//Nodes representing candidates in Wexford
+
+Create(`nMick Wallace`:Candidates {name:"Mick Wallace", party:"Independents 4 Change", gender:"Male", constituency:"Wexford", age:59, elected:"Yes"}),
+(`nJames Browne`:Candidates {name:"James Browne", party:"Fianna Fail", gender:"Male", constituency:"Wexford", age:40, elected:"Yes"}),
+(`nBrendan Howlin`:Candidates {name:"Brendan Howlin", party:"Labour", gender:"Male", constituency:"Wexford", age:59, elected:"Yes"}),
+(`nMichael D'Arcy`:Candidates {name:"Michael D'Arcy", party:"Fine Gael", gender:"Male", constituency:"Wexford", age:45, elected:"Yes"}),
+(`nPaul Kehoe`:Candidates {name:"Paul Kehoe", party:"Fine Gael", gender:"Male", constituency:"Wexford", age:43, elected:"No"}),
+(`nJohnny Mythen`:Candidates {name:"Johnny Mythen", party:"Sinn Fein", gender:"Male", constituency:"Wexford", age:57, elected:"No"}),
+(`nMalcolm Byrne`:Candidates {name:"Malcolm Byrne", party:"Fianna Fail", gender:"Male", constituency:"Wexford", age:41, elected:"No"}),
+(`nGer Carthy`:Candidates {name:"Ger Carthy", party:"Independent", gender:"Male", constituency:" Wexford", age:38, elected:"No"}),
+(`nAoife Byrne`:Candidates {name:"Aoife Byrne", party:"Fianna Fáil", gender:"Female", constituency:"Wexford", age:37, elected:"No"}),
+(`nLeonard Kelly`:Candidates {name:"Leonard Kelly", party:"Social Democrats", gender:"Male", constituency:"Wexford", age:"N/A", elected:"No"}),
+(`nDeirdre Wadding`:Candidates {name:"Deirdre Wadding", party:"AAA-PBP", gender:"Female", constituency:"Wexford", age:53, elected:"No"}),
+(`nJohn Dwyer`:Candidates {name:"John Dwyer", party:"Independent", gender:"Male", constituency:"Wexford", age:"N/A", elected:"No"}),
+(`nJulie Hogan`:Candidates {name:"Julie Hogan", party:"Fine Gael", gender:"Female", constituency:"Wexford", age:44, elected:"No"}),
+(`nAnn Walsh`:Candidates {name:"Ann Walsh", party:"Green Party", gender:"Female", constituency:"Wexford", age:"N/A", elected:"No"}),
+(`nCaroline Foxe`:Candidates {name:"Caroline Foxe", party:"Independent", gender:"Female", constituency:"Wexford", age:47, elected:"No"}),
+(`nEmmet Moloney`:Candidates {name:"Emmet Moloney", party:"Independent", gender:"Male", constituency:"Wexford", age:29, elected:"No"}),
+(`nDavid Lloyd`:Candidates {name:"David Lloyd", party:" Direct Democracy Ireland", gender:"Male", constituency:"Wexford", age:40, elected:"No"})
+
+
+
+
+
+//Nodes representing candidates in Wicklow
+
+Create(`nStephen Donnelly`:Candidates {name:"Stephen Donnelly", party:"Social Democrats", gender:"Female", constituency:"Wicklow", age:40, elected:"Yes"}),
+(`nJohn Brady`:Candidates {name:"John Brady", party:"Sinn Fein", gender:"Male", constituency:"Wicklow", age:42, elected:"Yes"}),
+(`nSimon Harris`:Candidates {name:"Simon Harris", party:"Fine Gael", gender:"Male", constituency:"Wicklow", age:29, elected:"Yes"}),
+(`nAndrew Doyle`:Candidates {name:"Andrew Doyle", party:"Fine Gael", gender:"Male", constituency:"Wicklow", age:55, elected:"Yes"}),
+(`nPat Casey`:Candidates {name:"Pat Casey", party:"Fianna Fail", gender:"Male", constituency:"Wicklow", age:"N/A", elected:"Yes"}),
+(`nBilly Timmins`:Candidates {name:"Billy Timmins", party:"Renua Ireland", gender:"Male", constituency:"Wicklow", age:56, elected:"No"}),
+(`nJoe Behan`:Candidates {name:"Joe Behan", party:"Independent", gender:"Male", constituency:"Wicklow", age:56, elected:"No"}),
+(`nAnne Ferris`:Candidates {name:"Anne Ferris", party:"Labour", gender:"Female", constituency:"Wicklow", age:61, elected:"No"}),
+(`nJennifer Cuffe`:Candidates {name:"Jennifer Cuffe", party:"Fianna Fail", gender:"Female", constituency:"Wicklow", age:29, elected:"No"}),
+(`nAvril Cronin`:Candidates {name:"Avril Cronin", party:"Fine Gael", gender:"Female", constituency:"Wicklow", age:29, elected:"No"}),
+(`nSharon Briggs`:Candidates {name:"Sharon Briggs", party:"AAA-PBP", gender:"Male", constituency:"Wicklow", age:49, elected:"No"}),
+(`nSteven Matthews`:Candidates {name:"Steven Matthews", party:"Green Party", gender:"Male", constituency:"Wicklow", age:"N/A", elected:"No"}),
+(`nAnna Doyle`:Candidates {name:"Anna Doyle", party:"AAA-PBP", gender:"Female", constituency:"Wicklow", age:43, elected:"No"}),
+(`nCharlie Keddy`:Candidates {name:"Charlie Keddy", party:"Independent", gender:"Male", constituency:"Wicklow", age:71, elected:"No"}),
+(`nKatrina Hutchinson`:Candidates {name:"Katrina Hutchinson", party:"Direct Democracy Ireland", gender:"Female", constituency:"Wicklow", age:"N/A", elected:"No"}),
+(`nBob Kearns`:Candidates {name:"Bob Kearns", party:"Independent", gender:"Male", constituency:"Wicklow", age:74, elected:"No"})
