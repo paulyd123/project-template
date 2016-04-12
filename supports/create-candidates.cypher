@@ -667,3 +667,41 @@ Create(`nMartin Kenny`:Candidates {name: "Martin Kenny", party: "Sinn Fein", gen
 (`nEamon Murray`:Candidates {name: "Eamon Murray", party: "Independent", gender: "Male", age: "N/A", constituency: "Sligo-Leitrim", elected: "No"}),
 (`nBernard Sweeney`:Candidates {name: "Bernard Sweeney", party: "Independent", gender: "Male", age: 40, constituency: "Sligo-Leitrim", elected: "No"})
 
+
+
+
+
+
+//Nodes representing candidates in Tipperary.
+
+Create(`nMichael Dillon`:Candidates {name:"Michael Dillon", party:"Independent", gender:"Male", constituency:"Tipperary", age:34, elected:"No"}),
+(`nGearóid Fitzgibbon`:Candidates {name:"Gearóid Fitzgibbon", party:"Green Party", gender:"Male", constituency:"Tipperary", age:30, elected:"No"}),
+(`nMarie Murphy`:Candidates {name:"Marie Murphy", party:"Fine Gael", gender:"Female", constituency:"Tipperary", age:"N/A", elected:"No"}),
+(`nSiobhán Ambrose`:Candidates {name:"Siobhán Ambrose", party:"Fianna Fail", gender:"Female", constituency:"Tipperary", age:"N/A", elected:"No"}),
+(`nNoel Coonan`:Candidates {name:"Noel Coonan", party:"Fine Gael", gender:"Male", constituency:"Tipperary", age:65, elected:"No"}),
+(`nMichael Smith`:Candidates {name:"Michael Smith", party:"Fianna Fail", gender:"Male", constituency:"Tipperary", age:39, elected:"No"}),
+(`nSeamus Morris`:Candidates {name:"Seamus Morris", party:"Sinn Fein", gender:"Male", constituency:"Tipperary", age:51, elected:"No"}),
+(`nTom Hayes`:Candidates {name:"Tom Hayes", party:"Fine Gael", gender:"Male", constituency:"Tipperary", age:63, elected:"No"}),
+(`nAlan Kelly`:Candidates {name:"Alan Kelly", party:"Labour", gender:"Male", constituency:"Tipperary", age:40, elected:"Yes"}),
+(`nSéamus Healy`:Candidates {name:"Séamus Healy", party:"Workers and Unemployed Action", gender:"Male", constituency:"Tipperary", age:65, elected:"Yes"}),
+(`nMichael Lowry`:Candidates {name:"Michael Lowry", party:"Independent", gender:"Male", constituency:"Tipperary", age:62, elected:"Yes"}),
+(`nMattie McGrath`:Candidates {name:"Mattie McGrath", party:"Independent", gender:"Male", constituency:"Tipperary", age:57, elected:"Yes"}),
+(`nJackie Cahill`:Candidates {name:"Jackie Cahill", party:"Fianna Fail", gender:"Male", constituency:"Tipperary", age:53, elected:"Yes"})
+
+
+
+
+//Nodes representing candidates in Waterford.
+
+Create(`nJohn Halligan`:Candidates {name:"John Halligan", party:"Independent", gender:"Male", constituency:"Waterford", age:"N/A", elected:"Yes"}),
+(`nMary Butler`:Candidates {name:"Mary Butler", party:"Fianna Fail", gender:"Female", constituency:"Waterford", age:"N/A", elected:"Yes"}),
+(`nDavid Cullinane`:Candidates {name:"David Cullinane", party:"Sinn Fein", gender:"Male", constituency:"Waterford", age:41, elected:"Yes"}),
+(`nJohn Deasy`:Candidates {name:"John Deasy", party:"Fine Gael", gender:"Male", constituency:"Waterford", age:48, elected:"Yes"}),
+(`nPaudie Coffey`:Candidates {name:"Paudie Coffey", party:"Fine Gael", gender:"Male", constituency:"Waterford", age:46, elected:"No"}),
+(`nGrace O'Sullivan`:Candidates {name:"Grace O'Sullivan", party:"Green Party", gender:"Female", constituency:"Waterford", age:"N/A", elected:"No"}),
+(`nCiara Conway`:Candidates {name:"Ciara Conway", party:"Labour", gender:"Female", constituency:"Waterford", age:35, elected:"No"}),
+(`nUna Dunphy`:Candidates {name:"Una Dunphy", party:"AAA-PBP", gender:"Female", constituency:"Waterford", age:48, elected:"No"}),
+(`nMailo Power`:Candidates {name:"Mailo Power", party:"Renua Ireland", gender:"Female", constituency:"Waterford", age:55, elected:"No"}),
+(`nJohn Walsh`:Candidates {name:"John Walsh", party:"Independent", gender:"Male", constituency:"Waterford", age:64, elected:"No"}),
+(`nEdward Quilty`:Candidates {name:"Edward Quilty", party:"Direct Democracy Ireland", gender:"Male", constituency:"Waterford", age:"N/A", elected:"No"}),
+(`nSheikh M. Ahmed`:Candidates {name:"Sheikh M. Ahmed", party:"Independent", gender:"Male", constituency:"Waterford", age:"N/A", elected:"No"})
