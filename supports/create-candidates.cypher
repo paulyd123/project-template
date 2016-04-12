@@ -602,3 +602,68 @@ Create(`nShane Cassels`:Candidates {name: "Shane Cassels", party: "Fianna Fail",
 (`nAlan Lawes`:Candidates {name: "Alan Lawes", party: "Direct Democracy Ireland", gender: "Male", age: "N/A", constituency: "Meath West", elected: "No"}),
 (`nTracy McElhinney`:Candidates {name: "Tracy McElhinney", party: "Labour", gender: "Female", age: 43, constituency: "Meath West", elected: "No"}),
 (`nJohn Malone`:Candidates {name: "John Malone", party: "Independent", gender: "Male", age: "N/A", constituency: "Meath West", elected: "No"})
+
+
+
+
+
+
+
+//Nodes representing candidates in Offaly.
+
+Create(`nBarry Cowen`:Candidates {name:"Barry Cowen", party:"Fianna Fail", gender:"Male", constituency:"Offaly", age:"N/A", elected:"Yes"}),
+(`nMarcella Corcoran-Kennedy`:Candidates {name:"Marcella Corcoran-Kennedy", party:"Fine Gael", gender:"Female", constituency:"Offaly", age:53, elected:"Yes"}),
+(`nEddie Fitzpatrick`:Candidates {name:"Eddie Fitzpatrick", party:"Fianna Fail", gender:"Male", constituency:"Offaly", age:"N/A", elected:"No"}),
+(`nCarol Nolan`:Candidates {name:"Carol Nolan", party:"Sinn Fein", gender:"Female", constituency:"Offaly", age:36, elected:"Yes"}),
+(`nJoe Hannigan`:Candidates {name:"Joe Hannigan", party:"Independent", gender:"Male", constituency:"Offaly", age:58, elected:"No"}),
+(`nJohn Leahy`:Candidates {name:"John Leahy", party:"Renua Ireland", gender:"Male", constituency:"Offaly", age:37, elected:"No"}),
+(`nJohn Foley`:Candidates {name:"John Foley", party:"Independent", gender:"Male", constituency:"Offaly", age:"N/A", elected:"No"}),
+(`nKen Smollen`:Candidates {name:"Ken Smollen", party:"Irish Democratic Party", gender:"Male", constituency:"Offaly", age:55, elected:"No"}),
+(`nKate Bopp`:Candidates {name:"Kate Bopp", party:"Independent", gender:"Female", constituency:"Offaly", age:50, elected:"No"}),
+(`nTeresa Ryan-Feehan`:Candidates {name:"Teresa Ryan-Feehan", party:"Independent", gender:"Female", constituency:"Offaly", age:"N/A", elected:"No"}),
+(`nChristopher Fettes`:Candidates {name:"Christopher Fettes", party:"Green Party", gender:"Male", constituency:"Offaly", age:78, elected:"No"})
+
+
+
+
+//Nodes representing candidates in Roscommon-Galway.
+
+Create(`nDenis Naughten`:Candidates {name: "Denis Naughten", party: "Independent", gender: "Male", age: 42, constituency: "Roscommon-Galway", elected: "Yes"}),
+(`nMichael Fitzmaurice`:Candidates {name: "Michael Fitzmaurice", party: "Independent", gender: "Male", age: 47, constituency: "Roscommon-Galway", elected: "Yes"}),
+(`nEugene Murphy`:Candidates {name: "Eugene Murphy", party: "Fianna Fail", gender: "Male", age: "N/A", constituency: "Roscommon-Galway", elected: "Yes"}),
+(`nMaura Hopkins`:Candidates {name: "Maura Hopkins", party: "Fine Gael", gender: "Female", age:  31, constituency: "Roscommon-Galway", elected: "No"}),
+(`nClaire Kerrane`:Candidates {name: "Claire Kerrane", party: "Sinn Fein", gender: "Female", age:  23, constituency: "Roscommon-Galway", elected: "No"}),
+(`nShane Curran`:Candidates {name: "Shane Curran", party: "Fianna Fail", gender: "Male", age:  44, constituency: "Roscommon-Galway", elected: "No"}),
+(`nJohn Kelly`:Candidates {name: "John Kelly", party: "Labour", gender: "Male", age:  55, constituency: "Roscommon-Galway", elected: "No"}),
+(`nEddie Conroy`:Candidates {name: "Eddie Conroy", party: "AAA-PBP", gender: "Male", age:  39, constituency: "Roscommon-Galway", elected: "No"}),
+(`nAnne Farrell`:Candidates {name: "Anne Farrell", party: "Renua Ireland", gender: "Female", age:  53, constituency: "Roscommon-Galway", elected: "No"}),
+(`nMiriam Hennesy`:Candidates {name: "Miriam Hennesy", party: "Green Party", gender: "Female", age: "N/A", constituency: "Roscommon-Galway", elected: "No"}),
+(`nTony Coleman`:Candidates {name: "Tony Coleman", party: "Independent", gender: "Male", age: "N/A", constituency: "Roscommon-Galway", elected: "No"}),
+(`nThomas Declan Fallon`:Candidates {name: "Thomas Declan Fallon", party: "Independent", gender: "Male", age: "N/A", constituency: "Roscommon-Galway", elected: "No"})
+
+
+
+
+
+
+//Nodes representing candidates in Sligo-Leitrim.
+
+Create(`nMartin Kenny`:Candidates {name: "Martin Kenny", party: "Sinn Fein", gender: "Male", age: 46, constituency: "Sligo-Leitrim", elected: "Yes"}),
+(`nMarc MacSharry`:Candidates {name: "Marc MacSharry", party: "Fianna Fail", gender: "Male", age: 42, constituency: "Sligo-Leitrim", elected: "Yes"}),
+(`nTony McLoughlin`:Candidates {name: "Tony McLoughlin", party: "Fine Gael", gender: "Male", age: 66, constituency: "Sligo-Leitrim", elected: "Yes"}),
+(`nEamon Scanlon`:Candidates {name: "Eamon Scanlon", party: "Fianna Fail", gender: "Male", age: 61, constituency: "Sligo-Leitrim", elected: "Yes"}),
+(`nGerry Reynolds`:Candidates {name: "Gerry Reynolds", party: "Fine Gael", gender: "Male", age: 54, constituency: "Sligo-Leitrim", elected: "No"}),
+(`nChris MacManus`:Candidates {name: "Chris MacManus", party: "Sinn Fein", gender: "Male", age: 42, constituency: "Sligo-Leitrim", elected: "No"}),
+(`nPaddy O'Rourke`:Candidates {name: "Paddy O'Rourke", party: "Fianna Fail", gender: "Male", age: "N/A", constituency: "Sligo-Leitrim", elected: "No"}),
+(`nDeclan Bree`:Candidates {name: "Declan Bree", party: "Independent", gender: "Male", age: 64, constituency: "Sligo-Leitrim", elected: "No"}),
+(`nJohn Perry`:Candidates {name: "John Perry", party: "Fine Gael", gender: "Male", age: 59, constituency: "Sligo-Leitrim", elected: "No"}),
+(`nMarie Casserly`:Candidates {name: "Marie Casserly", party: "Independent", gender: "Female", age: 37, constituency: "Sligo-Leitrim", elected: "No"}),
+(`nSusan O'Keeffe`:Candidates {name: "Susan O'Keeffe", party: "Labour", gender: "Female", age: 55, constituency: "Sligo-Leitrim", elected: "No"}),
+(`nNigel Gallagher`:Candidates {name: "Nigel Gallagher", party: "AAA-PBP", gender: "Male", age: 29, constituency: "Sligo-Leitrim", elected: "No"}),
+(`nBernie O'Hara`:Candidates {name: "Bernie O'Hara", party: "Independent", gender: "Female", age: 54, constituency: "Sligo-Leitrim", elected: "No"}),
+(`nDes Guckian`:Candidates {name: "Des Guckian", party: "Independent", gender: "Male", age: 67, constituency: "Sligo-Leitrim", elected: "No"}),
+(`nFinbarr Filan`:Candidates {name: "Finbarr Filan", party: "Renua Ireland", gender: "Male", age: 47, constituency: "Sligo-Leitrim", elected: "No"}),
+(`nLeslie O'Hora`:Candidates {name: "Leslie O'Hora", party: "Green Party", gender: "Male", age: 59, constituency: "Sligo-Leitrim", elected: "No"}),
+(`nEamon Murray`:Candidates {name: "Eamon Murray", party: "Independent", gender: "Male", age: "N/A", constituency: "Sligo-Leitrim", elected: "No"}),
+(`nBernard Sweeney`:Candidates {name: "Bernard Sweeney", party: "Independent", gender: "Male", age: 40, constituency: "Sligo-Leitrim", elected: "No"})
+
