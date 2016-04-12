@@ -1,8 +1,8 @@
 # Irish Constituencies Neo4j Database
-###### Student name, G00123456
+###### Paul Dolan, G00297086
 
 ## Introduction
-Give a summary here of what your project is about.
+For thi project I had to design a neo4j graph database which consisted of the constituencies in the Republic of Ireland and also the candidates that ran in thoe constituencies. I also had to create a relationship between them the candidates and the constituencies.
 
 ## Database
 Explain how you created your database, and how information is represented in it.
